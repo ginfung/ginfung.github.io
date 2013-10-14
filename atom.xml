@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-14T19:17:07+08:00</updated>
+  <updated>2013-10-14T19:20:06+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -20,9 +20,18 @@
     <id>http://Ginfung.github.io/blog/2013/10/12/this-is-my-first-article</id>
     <content type="html"><![CDATA[<h2>This is my homepage. Welcome!</h2>
 
-<p> Hello1
-* Hello2
-* Hello3</p>
+<h1>here is H1</h1>
+
+<h2>here is H2</h2>
+
+<h3>here is H3</h3>
+
+<ul>
+<li>Hello1</li>
+<li>Hello2</li>
+<li>Hello3</li>
+</ul>
+
 
 <blockquote><p>This is something</p></blockquote>
 ]]></content>
