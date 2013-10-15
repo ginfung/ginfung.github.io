@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-15T12:45:48+08:00</updated>
+  <updated>2013-10-15T12:51:33+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -40,7 +40,7 @@
 <h2>EDUCATION</h2>
 
 <ul>
-<li>Shandong Univsity, Jinan, Shandong  2010-2014(expected) <strong>B.Eng.</strong></li>
+<li>Shandong Univsity, Jinan, Shandong  2010-2014(expected) <strong>B.Eng. in software engineering</strong></li>
 <li>Dongguan Middle School, Dongguan, Guangdong  2007-2010 <strong>High School Diploma</strong></li>
 </ul>
 
@@ -48,7 +48,9 @@
 <h2>PROJECTS</h2>
 
 <PRE>
-project 1
+<b>Equiareal parameterization of NURBS surfaces</b> <br \>
+Tutor: Prof. [Yijun Yang][] Aug 2012 to APr 2013 <br\>
+[Yijun Yang]: http://vr.sdu.edu.cn/~yyj &#8220;Yijun Yang&#8221;
 </PRE>
 
 
@@ -59,7 +61,7 @@ project 2
 </PRE>
 
 
-<h2>PUBLICATIONS and PAPERS</h2>
+<h2>PUBLICATIONS AND PAPERS</h2>
 
 <h2>CERTIFICATIONS</h2>
 
