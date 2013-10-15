@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-15T12:33:45+08:00</updated>
+  <updated>2013-10-15T12:37:43+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -40,7 +40,8 @@
 <h2>EDUCATION</h2>
 
 <ul>
-<li>Shandong Univsity, Jinan, Shandong 2010-2014(expected)</li>
+<li>Shandong Univsity, Jinan, Shandong          2010-2014(expected) <b>B.Eng. </b></li>
+<li>Dongguan Middle School, Dongguan, Guangdong 2007-2010 <b>High School Diploma</b></li>
 </ul>
 
 ]]></content>
