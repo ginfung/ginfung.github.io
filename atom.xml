@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-15T12:51:33+08:00</updated>
+  <updated>2013-10-15T12:52:49+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -47,19 +47,11 @@
 
 <h2>PROJECTS</h2>
 
-<PRE>
-<b>Equiareal parameterization of NURBS surfaces</b> <br \>
-Tutor: Prof. [Yijun Yang][] Aug 2012 to APr 2013 <br\>
-[Yijun Yang]: http://vr.sdu.edu.cn/~yyj &#8220;Yijun Yang&#8221;
-</PRE>
+<h3>Equiareal parameterization of NURBS surfaces</h3>
 
+<p>Tutor: Prof. <a href="http://vr.sdu.edu.cn/~yyj" title="Yijun Yang">Yijun Yang</a> Aug 2012 to APr 2013 &lt;br></p>
 
-
-
-<PRE>
-project 2
-</PRE>
-
+<h3>project 2</h3>
 
 <h2>PUBLICATIONS AND PAPERS</h2>
 
