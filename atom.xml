@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-15T12:05:06+08:00</updated>
+  <updated>2013-10-15T12:20:07+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,13 +18,14 @@
     <link href="http://Ginfung.github.io/blog/2013/10/12/this-is-my-first-article/"/>
     <updated>2013-10-12T23:22:00+08:00</updated>
     <id>http://Ginfung.github.io/blog/2013/10/12/this-is-my-first-article</id>
-    <content type="html"><![CDATA[<p><b> under construction&hellip;</b>  <br />
-<strong>Correspondence:</strong> <a href="http://www.sc.sdu.edu.cn/eweb/index.htm" title="Software college">Software College</a>, <a href="http://en.sdu.edu.cn/" title="Shandong University">Shandong University</a>, No.1500, Shunhua Rd., Jinan City, Shandong Province, P.R.C <br />
+    <content type="html"><![CDATA[<p><strong>Correspondence:</strong> <a href="http://www.sc.sdu.edu.cn/eweb/index.htm" title="Software college">Software College</a>, <a href="http://en.sdu.edu.cn/" title="Shandong University">Shandong University</a>, No.1500, Shunhua Rd., Jinan City, Shandong Province, P.R.C <br />
 <strong>Zipcode:</strong> 250101 <br />
 <strong>E-mail:</strong> ginfungchan AT gmail.com or cjfameritop AT gmail.com <br \>
 <strong>URL:</strong> chenjianfeng.net</p>
 
-<blockquote><p>This is something</p></blockquote>
+<blockquote><p>About me</p></blockquote>
+
+<p>  I am a senior student at the software college in Shandong University, China. I am majoring in software engineering. Now I am</p>
 ]]></content>
   </entry>
   
