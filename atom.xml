@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-16T12:30:57+08:00</updated>
+  <updated>2013-10-16T12:32:18+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -47,22 +47,21 @@
 
 <h2>PROJECTS</h2>
 
-<h3>Equiareal parameterization of NURBS surfaces</h3>
-
-<p>Tutor: Prof. <a href="http://vr.sdu.edu.cn/~yyj" title="Yijun Yang">Yijun Yang</a> Aug 2012 to APr 2013 &lt;br></p>
+<p> ### Equiareal parameterization of NURBS surfaces
+Tutor: Prof. <a href="http://vr.sdu.edu.cn/~yyj" title="Yijun Yang">Yijun Yang</a> Aug 2012 to APr 2013 &lt;br></p>
 
 <h3>project 2</h3>
 
 <h2>PUBLICATIONS AND DISSERTIONS</h2>
 
-<h3>Equiareal parameterizations of NURBS surfaces</h3>
-
 <ul>
-<li><strong>Sci- Graphic Models, under review, 2013</strong> [<a href="https://docs.google.com/file/d/0ByLC3dVEBaE_UWJ0QVJqWjlRWTQ/edit?usp=sharin">pdf</a>]<br \>
-The equiareality of freeform surfaces greatly affects the results of visualization and tessellation applications, especially when dealing with extruding and intruding shapes. To improve the equiareality of given freeform surfaces, we present an optimization algorithm using the Mobius transformations in the paper.
+<li><h3>Equiareal parameterizations of NURBS surfaces</h3>
 
-<h3>An Interest-based Social Networking Content Recommendation Method</h3></li>
-<li><strong>CSCD- Journal of Mathematics in Practice and Theory, accepted ,2013</strong> <br \> [<a href="">pdf-Chinese</a>]
+<p><strong>Sci- Graphic Models, under review, 2013</strong> [<a href="https://docs.google.com/file/d/0ByLC3dVEBaE_UWJ0QVJqWjlRWTQ/edit?usp=sharin">pdf</a>]<br \>
+The equiareality of freeform surfaces greatly affects the results of visualization and tessellation applications, especially when dealing with extruding and intruding shapes. To improve the equiareality of given freeform surfaces, we present an optimization algorithm using the Mobius transformations in the paper.</p></li>
+<li><h3>An Interest-based Social Networking Content Recommendation Method</h3>
+
+<strong>CSCD- Journal of Mathematics in Practice and Theory, accepted ,2013</strong> <br \> [<a href="">pdf-Chinese</a>]
 Effective content recommendation provide users with convenient and accurate access to contents of their interest, which is a significant approach to develop social network. This paper represents an interest-based Recommendation method (IRM) relating to social network. It collects user interest in order to build a user-interest-content model then presents an interest-based content recommendation sequence algorithm and verifies it.
 
 <h2>CERTIFICATIONS</h2></li>
