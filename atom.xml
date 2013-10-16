@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-15T12:52:49+08:00</updated>
+  <updated>2013-10-16T12:18:52+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -53,7 +53,17 @@
 
 <h3>project 2</h3>
 
-<h2>PUBLICATIONS AND PAPERS</h2>
+<h2>PUBLICATIONS AND DISSERTIONS</h2>
+
+<h3>Equiareal parameterizations of NURBS surfaces</h3>
+
+<p><strong>Sci- Graphic Models, under review, 2013</strong> [<a href="">pdf</a>]
+The equiareality of freeform surfaces greatly affects the results of visualization and tessellation applications, especially when dealing with extruding and intruding shapes. To improve the equiareality of given freeform surfaces, we present an optimization algorithm using the Mobius transformations in the paper.</p>
+
+<h3>An Interest-based Social Networking Content Recommendation Method</h3>
+
+<p><strong>CSCD- Journal of Mathematics in Practice and Theory, accepted ,2013</strong>
+Effective content recommendation provide users with convenient and accurate access to contents of their interest, which is a significant approach to develop social network. This paper represents an interest-based Recommendation method (IRM) relating to social network. It collects user interest in order to build a user-interest-content model then presents an interest-based content recommendation sequence algorithm and verifies it.</p>
 
 <h2>CERTIFICATIONS</h2>
 
