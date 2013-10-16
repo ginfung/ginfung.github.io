@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-16T12:22:45+08:00</updated>
+  <updated>2013-10-16T12:23:44+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -57,7 +57,7 @@
 
 <h3>Equiareal parameterizations of NURBS surfaces</h3>
 
-<p><strong>Sci- Graphic Models, under review, 2013</strong> [<a href="">pdf</a>]<br \></p>
+<p><strong>Sci- Graphic Models, under review, 2013</strong> [<a href="https://www.dropbox.com/s/ukp0hbh48on1cv3/paper_ChenJianfeng.pdf">pdf</a>]<br \></p>
 
 <PRE>
 The equiareality of freeform surfaces greatly affects the results of visualization and tessellation applications, especially when dealing with extruding and intruding shapes. To improve the equiareality of given freeform surfaces, we present an optimization algorithm using the Mobius transformations in the paper.
