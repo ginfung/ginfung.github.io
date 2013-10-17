@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-17T18:33:47+08:00</updated>
+  <updated>2013-10-17T18:35:15+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -66,19 +66,19 @@
 <blockquote><p> PUBLICATIONS AND DISSERTIONS</p></blockquote>
 
 <ul>
-<li><h3>Equiareal parameterizations of NURBS surfaces</h3>
+<li><h4>Equiareal parameterizations of NURBS surfaces</h4>
 
 <p><strong>Sci- Graphic Models, under review, 2013</strong> [<a href="https://docs.google.com/file/d/0ByLC3dVEBaE_UWJ0QVJqWjlRWTQ/edit?usp=sharin">pdf</a>]<br \>
 The equiareality of freeform surfaces greatly affects the results of visualization and tessellation applications, especially when dealing with extruding and intruding shapes. To improve the equiareality of given freeform surfaces, we present an optimization algorithm using the Mobius transformations in the paper.</p></li>
-<li><h3>An Interest-based Social Networking Content Recommendation Method</h3>
+<li><h4>An Interest-based Social Networking Content Recommendation Method</h4>
 
 <p><strong>CSCD- Journal of Mathematics in Practice and Theory, accepted ,2013</strong> [<a href="">pdf-Chinese</a>] <br \>
 Effective content recommendation provide users with convenient and accurate access to contents of their interest, which is a significant approach to develop social network. This paper represents an interest-based Recommendation method (IRM) relating to social network. It collects user interest in order to build a user-interest-content model then presents an interest-based content recommendation sequence algorithm and verifies it.</p></li>
-<li><h3>Optimizing conformity of NURBS surfaces using general bilinear transformations</h3>
+<li><h4>Optimizing conformity of NURBS surfaces using general bilinear transformations</h4>
 
 <p><strong>Writing now</strong><br \>
 The conformity of NURBS surfaces greatly affects rendering and tessellation results. To improve the conformity of NURBS surfaces, an optimization algorithm using general bilinear transformations is presented in this paper. This paper was inspired by the first paper (Equiareal parameterizations of NURBS surfaces), and we use a more general bilinear transformations to reparameterize the surfaces, rather than merely use the limited Mobius transformations.</p></li>
-<li><h3>Intelligent Navigation System basing Data Mining and Real-time Traffic</h3>
+<li><h4>Intelligent Navigation System basing Data Mining and Real-time Traffic</h4>
 
 <p><strong>Paper won the first prize for the science creation competition, Shandong University, 2012</strong> <br \>
 Without taking the real-time traffic situation into consideration, the typical navigation system merely receive the system users&#8217; requirement and return them a shortest path, which is obviously limited. In this paper, we represent a totally model to build a much more effective navigation system. This model begins with collect the real-time traffic situation from four-dimensional source, analyzes the traffic data by a cellular automata, and then generate an optimal path to the user. This paper is one of the interim results for the university innovation project.</p></li>
