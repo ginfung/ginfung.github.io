@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-10-17T12:49:44+08:00</updated>
+  <updated>2013-10-17T12:50:59+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -98,8 +98,8 @@ Without taking the real-time traffic situation into consideration, the typical n
 
 <ul>
 <li>Student Union</li>
-<li>Bchine Studeng Innovation Lab <a href="http://vr.sdu.edu.cn">link(Chinese)</a></li>
-<li>Research Center of Human-Computer Interaction &amp; Virtual Reality[link(Chines)][]</li>
+<li><a href="http://www.bchine.com/">Bchine</a> Studeng Innovation Lab</li>
+<li>Research Center of Human-Computer Interaction &amp; Virtual Reality[[link(Chines)][]]</li>
 <li>Cycling Association of Shandong University</li>
 <li>Mathematical Modeling Club of Shandong University</li>
 <li>Robot Fish Interest Group</li>
