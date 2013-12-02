@@ -4,7 +4,7 @@
   <title><![CDATA[Chen Jianfeng]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-12-02T22:13:18+08:00</updated>
+  <updated>2013-12-02T22:20:07+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[ChenJianfeng]]></name>
@@ -20,18 +20,14 @@
     <id>http://Ginfung.github.io/blog/2013/10/12/this-is-my-first-article</id>
     <content type="html"><![CDATA[<p>[This website is under construction. Information may be not complete. Sorry for that and thanks for your understanding.]</p>
 
-<p><img src="http://chenjianfeng.net/images/chenjf.jpg" style="float: left; margin: 0 8px 8px 0;"/></p>
+<p><img src="http://chenjianfeng.net/images/chenjf.jpg" style="float: left; margin: 0 8px 8px 0; width:120px;"/></p>
 
-<p>**Correspondence:** [Software College][], [Shandong University][], No.1500, Shunhua Rd., Jinan City, Shandong Province, P.R.C</p>
-
-
-<p>**Zipcode:** 250101</p>
-
-
-<p>**E-mail:** ginfungchan AT gmail.com or cjfameritop AT gmail.com</p>
-
-
-<p>**URL:** chenjianfeng.net</p>
+<ul>
+<li><strong>Correspondence:</strong> <a href="http://www.sc.sdu.edu.cn/eweb/index.htm" title="Software college">Software College</a>, <a href="http://en.sdu.edu.cn/" title="Shandong University">Shandong University</a>, No.1500, Shunhua Rd., Jinan City, Shandong Province, P.R.C</li>
+<li><strong>Zipcode:</strong> 250101</li>
+<li><strong>E-mail:</strong> ginfungchan AT gmail.com or cjfameritop AT gmail.com</li>
+<li><strong>URL:</strong> chenjianfeng.net</li>
+</ul>
 
 
 <h2>ABOUT ME</h2>
