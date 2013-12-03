@@ -4,7 +4,7 @@
   <title><![CDATA[Chen Jianfeng]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-12-03T13:07:10+08:00</updated>
+  <updated>2013-12-03T14:10:16+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[ChenJianfeng]]></name>
@@ -29,7 +29,7 @@ Shandong Province, P.R.C<br />
 <strong>E-mail:</strong> ginfungchan AT gmail.com or cjfameritop AT gmail.com<br />
 <strong>URL:</strong> www.chenjianfeng.net</p>
 
-<blockquote><p><a href="#about_me">About Me</a> &nbsp; <a href="#research_interest">Research Interest</a> &nbsp; <a href="#education">Education</a></p></blockquote>
+<blockquote><p><a href="#about_me">About Me</a> &nbsp; <a href="#research_interest">Research Interest</a> &nbsp; <a href="#education">Education</a> &nbsp; <a href="#project">Project List</a></p></blockquote>
 
 <h2 id="about_me">ABOUT ME</h2>
 
@@ -55,17 +55,17 @@ Average: 89.27 (Total,top 7%), 90.78(Major) <br />
 GPA: 3.74(Total), 3.8(Major)<br />
 <a href="https://www.dropbox.com/s/jejti0bxpb8y3xx/course_profile_chenjianfeng.pdf">Course Profile</a></p>
 
-<h2 id="pr">PROJECT LIST</h2>
+<h2 id="project">PROJECT LIST</h2>
 
 
 
 
 <table>
 <tr>
-<td><img src="http://chenjianfeng.net/images/chenjf.jpg" style="width:120px;height:120px;"/></td><td>Equiareal parameterizations of NURBS surfaces</td>
+<td><img src="http://chenjianfeng.net/images/equiarel.jpeg" style="width:200px;height:200px;"/></td><td>Equiareal parameterizations of NURBS surfaces</td>
 </tr>
 <tr>
-<td><img src="http://chenjianfeng.net/images/chenjf.jpg" style="width:120px;height:120px;"/></td><td>General rational bilinear transformation of NURBS surfaces</td>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:200px;height:200px;"/></td><td>General rational bilinear transformation of NURBS surfaces</td>
 </tr>
 </table>
 
