@@ -4,7 +4,7 @@
   <title><![CDATA[Chen Jianfeng]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-12-03T14:12:09+08:00</updated>
+  <updated>2013-12-03T14:19:55+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[ChenJianfeng]]></name>
@@ -67,23 +67,29 @@ GPA: 3.74(Total), 3.8(Major)<br />
 <tr>
 <td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>General rational bilinear transformation of NURBS surfaces</td>
 </tr>
+<td><img src="http://chenjianfeng.net/images/sns.jpeg" style="width:120px;height:120px;"/></td><td>Recommendation system based on SNS</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/innotraffic.jpeg" style="width:120px;height:120px;"/></td><td>InnoTraffic-Intelligent navigation system</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/hadoop.jpeg" style="width:120px;height:120px;"/></td><td>Electronic trading system with Hadoop storage</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/humming.jpeg" style="width:120px;height:120px;"/></td><td>Music information retrieval system via humming</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>An improved k-means clustering algorithm and its application</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>Research on parallel computing platform-CUDA</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>Research on the query and update efficiency of B-Tree structure</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>The  compiler for PL0/1 Language</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>A smart camera with cloud storage for android</td>
+</tr>
+<td><img src="http://chenjianfeng.net/images/generalN.jpeg" style="width:120px;height:120px;"/></td><td>Digital system experiment</td>
+</tr>
 </table>
 
 
-<ul>
-<li>Equiareal parameterizations of NURBS surfaces</li>
-<li>General rational bilinear transformation of NURBS surfaces</li>
-<li>Recommendation system based on SNS</li>
-<li>InnoTraffic-Intelligent navigation system</li>
-<li>Electronic trading system with Hadoop storage</li>
-<li>Music information retrieval system via humming</li>
-<li>An improved k-means clustering algorithm and its application</li>
-<li>Research on parallel computing platform-CUDA</li>
-<li>Research on the query and update efficiency of B-Tree structure</li>
-<li>The  compiler for PL0/1 Language</li>
-<li>A smart camera with cloud storage for android</li>
-<li>Digital system experiment</li>
-</ul>
 
 
 <h2 id="pu">PUBLICATIONS AND DISSERTIONS</h2>
