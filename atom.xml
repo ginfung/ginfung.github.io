@@ -4,7 +4,7 @@
   <title><![CDATA[Chen Jianfeng]]></title>
   <link href="http://Ginfung.github.io/atom.xml" rel="self"/>
   <link href="http://Ginfung.github.io/"/>
-  <updated>2013-12-06T17:01:43+08:00</updated>
+  <updated>2013-12-06T17:03:58+08:00</updated>
   <id>http://Ginfung.github.io/</id>
   <author>
     <name><![CDATA[ChenJianfeng]]></name>
@@ -80,7 +80,7 @@ GPA: 3.74(Total), 3.8(Major)<br />
 </tr>
 <td><img src="http://chenjianfeng.net/images/cuda.GIF" style="width:200px;height:100px;"/></td><td><p align = left> <b>Research on parallel computing platform-CUDA</b><br \>Advisor: Prof. Weiguo Lui | 2012-08 to 2013-03 <br \>GPU-accelerated computing is one high theme in computer science world nowadays. Pioneered in 2007 by NVIDIA, CUDA has become a widely used tool. In this project, I just tried to learn the base CUDA programming and developed some code in order to compare CPU computing from GPU computing.<p></td>
 </tr>
-<td><img src="http://chenjianfeng.net/images/btree.GIF" style="width:200px;height:200px;"/></td><td><p align = left><b>Research on the query and update efficiency of B-Tree structure</b><br \>This is my course design of Data Structure class. To begin this course design, I first studied the structure of B-Tree and the common operation upon it. Then I wrote a B-Tree using C++, analyzed the spatial complexity and time complexity of the B-Tree and its operation. Finally, I also compared this data structure with other similar data structure-B* Tree, B+ Tree<p></td>
+<td><img src="http://chenjianfeng.net/images/btree.GIF" style="width:200px;height:200px;"/></td><td><p align = left><b>Research on the query and update efficiency of B-Tree structure</b><br \>Adviser: Dr. Ming Sun | 2012-02 to 2012-04 <br \>This is my course design of Data Structure class. To begin this course design, I first studied the structure of B-Tree and the common operation upon it. Then I wrote a B-Tree using C++, analyzed the spatial complexity and time complexity of the B-Tree and its operation. Finally, I also compared this data structure with other similar data structure-B* Tree, B+ Tree<p></td>
 </tr>
 <td><img src="http://chenjianfeng.net/images/PL01.GIF" style="width:200px;height:150px;"/></td><td><p align = left><b>The compiler for PL0/1 Language</b><br \>Advisor: Prof. Hongze Qiu | 2012-10 to 2013-01<br \>PL0/1 is an artificial simple computer language. I have finished a simple complier which can validates the program, converts it to Assembly-like language and execute it. The compiler could be divided into several parts: lexical analyzer, syntactic analyzer, pseudo code generator, etc.</p></td>
 </tr>
@@ -99,11 +99,11 @@ GPA: 3.74(Total), 3.8(Major)<br />
 <ul>
 <li><h4>Equiareal parameterizations of NURBS surfaces</h4>
 
-<p><strong>Sci- Graphic Models, accepted, 2013</strong> [<a href="https://docs.google.com/file/d/0ByLC3dVEBaE_UWJ0QVJqWjlRWTQ/edit?usp=sharin">pdf</a>]<br \>
+<p><strong>Sci- Graphic Models, accepted, 2013</strong> <br \>
 The equiareality of freeform surfaces greatly affects the results of visualization and tessellation applications, especially when dealing with extruding and intruding shapes. To improve the equiareality of given freeform surfaces, we present an optimization algorithm using the Mobius transformations in the paper.</p></li>
 <li><h4>An Interest-based Social Networking Content Recommendation Method</h4>
 
-<p><strong>CSCD- Journal of Mathematics in Practice and Theory, accepted ,2013</strong> [<a href="">pdf-Chinese</a>] <br \>
+<p><strong>CSCD- Journal of Mathematics in Practice and Theory, accepted ,2013</strong> <br \>
 Effective content recommendation provide users with convenient and accurate access to contents of their interest, which is a significant approach to develop social network. This paper represents an interest-based Recommendation method (IRM) relating to social network. It collects user interest in order to build a user-interest-content model then presents an interest-based content recommendation sequence algorithm and verifies it.</p></li>
 <li><h4>Optimizing conformity of NURBS surfaces using general bilinear transformations</h4>
 
