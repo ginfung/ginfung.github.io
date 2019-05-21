@@ -1,0 +1,75 @@
+[
+	{
+		"slug": "riot",
+		"name": "Stochastic based Scheduling in Cloud Environment",
+		"image": "workflows.png",
+		"date": "Aug 2018",
+		"tags": [
+			"Phd"
+		]
+	},
+	{
+		"slug": "sway",
+		"name": "Sampling as a Baseline Method for Search-based Software Engineering",
+		"image": "tse.png",
+		"date": "Dec 2017",
+		"tags": [
+			"Phd"
+		]
+	},
+	{
+		"slug": "dds",
+		"name": "Data-Driven Search-based Software Engineering",
+		"image": "dds.png",
+		"date": "Mar 2018",
+		"tags": [
+			"Phd"
+		]
+	},
+	{
+		"slug": "equiareal",
+		"name": "Equiareal parameterizations of NURBS surfaces",
+		"image": "nurbs.png",
+		"date": "Dec 2013",
+		"tags": [
+			"Undergrad"
+		]
+	},
+	{
+		"slug": "devops",
+		"name": "Continuous Integration/Delivery Pipeline",
+		"image": "devops.png",
+		"date": "Dec 2016",
+		"tags": [
+			"Course"
+		]
+	},
+	{
+		"slug": "netflix",
+		"name": "Building Netflix Prize Prediction Model",
+		"image": "netflix.jpg",
+		"date": "Apr 2016",
+		"tags": [
+			"Course"
+		]
+	},
+	{
+		"slug": "lace",
+		"name": "LACE: Large-scale Assurance of Confidentiality Environment",
+		"image": "lace.png",
+		"date": "Apr 2016",
+		"tags": [
+			"Industrial"
+		]
+	},
+	{
+		"slug": "others",
+		"name": "More unlisted projects...",
+		"image": "gameai.png",
+		"date": "Jan 2015",
+		"tags": [
+			"Course",
+			"Undergrad"
+		]
+	},
+]

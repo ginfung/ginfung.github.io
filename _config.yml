@@ -1,0 +1,58 @@
+title: Jianfeng Chen
+description: My Personal website
+author: Jianfeng Chen
+github: https://github.com/ginfung
+about: Website for my projects, articles and resume.
+avatar_url: /static/img/avatar.jpg
+
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/jfchen1992"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/jianfengcs/"
+    - icon: fa-github
+      link: "https://github.com/ginfung"
+    - icon: fa-wechat
+      link: "/wechat/"
+    - icon: fa-slideshare
+      link: "https://www.slideshare.net/jianfengcs"
+
+share:
+  twitter_username: github.io
+  fb_appid: 1749788565247320
+
+urls:
+    - text: Projects
+      url: /projects/
+    # - text: Articles
+    #   url: /articles/
+    # - text: Blog
+    #   url: /blog/
+    # - text: PDFS
+    #   url: /pdfs/
+
+url: "https://jianfeng.us"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
