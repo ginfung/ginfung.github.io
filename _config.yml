@@ -2,8 +2,8 @@ title: Jianfeng Chen
 description: My Personal website
 author: Jianfeng Chen
 github: https://github.com/ginfung
-about: Website for my projects, articles and resume.
-avatar_url: /static/img/avatar.jpg
+about: CS.PhD.AI.SE.Infra
+avatar_url: /static/img/ncsu_seal.png
 
 
 enableTags: true
@@ -15,6 +15,8 @@ collections:
     permalink: /project/:path/
 
 social:
+    - icon: fa-envelope
+      link: "mailto:jchen37@ncsu.edu"
     - icon: fa-facebook
       link: "https://www.facebook.com/jfchen1992"
     - icon: fa-linkedin
@@ -31,14 +33,16 @@ share:
   fb_appid: 1749788565247320
 
 urls:
+    - text: Resume
+      url: /resume/
+    - text: Publications
+      url: https://scholar.google.com/citations?user=StXI8uQAAAAJ&hl=en&oi=ao
     - text: Projects
       url: /projects/
-    # - text: Articles
-    #   url: /articles/
-    # - text: Blog
-    #   url: /blog/
-    # - text: PDFS
-    #   url: /pdfs/
+    - text: PDFs repo
+      url: /pdf/
+    - text: Blog
+      url: /blog/
 
 url: "https://jianfeng.us"
 baseurl: ""

@@ -157,7 +157,8 @@ div.col-sm-3 img.profile-avatar {
 }
 .post-content img,
 .content img {
-  max-width: 100%
+  /* max-width: 100% */
+  max-height: 50pt;
 }
 
 /* Responsive Conditional */
