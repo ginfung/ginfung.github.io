@@ -1,5 +1,23 @@
 [
 	{
+		"slug": "spike",
+		"name": "Predicting Breakdowns in Cloud Services (with SPIKE)",
+		"image": "spike.png",
+		"date": "Mar 2019",
+		"tags": [
+			"Industrial"
+		]
+	},
+	{
+		"slug": "snap",
+		"name": "Faster Creation of Smaller Test Suites (with SNAP)",
+		"image": "snap.png",
+		"date": "May 2019",
+		"tags": [
+			"Phd"
+		]
+	},
+	{
 		"slug": "riot",
 		"name": "Stochastic based Scheduling in Cloud Environment",
 		"image": "workflow2.png",
