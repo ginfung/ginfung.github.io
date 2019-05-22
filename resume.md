@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-<iframe src="/pdf/resume.pdf" width="700" height="500"> </iframe>
+<iframe src="/resume.pdf" width="700" height="500"> </iframe>

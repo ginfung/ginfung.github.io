@@ -4,7 +4,7 @@ author: Jianfeng Chen
 github: https://github.com/ginfung
 about: CS.PhD.AI.SE.Infra
 avatar_url: /static/img/ncsu_seal.png
-
+statcounter_url: //c.statcounter.com/11220449/0/1d9684ef/0/  # ATTENTION: SET default.html sc_project
 
 enableTags: true
 tagarray: []
@@ -13,6 +13,9 @@ collections:
   project:
     output: true
     permalink: /project/:path/
+  pdf:
+    output: true
+    permalink: /pdf/:path/
 
 social:
     - icon: fa-envelope

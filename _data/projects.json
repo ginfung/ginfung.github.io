@@ -2,7 +2,7 @@
 	{
 		"slug": "riot",
 		"name": "Stochastic based Scheduling in Cloud Environment",
-		"image": "workflows.png",
+		"image": "workflow2.png",
 		"date": "Aug 2018",
 		"tags": [
 			"Phd"
@@ -11,7 +11,7 @@
 	{
 		"slug": "sway",
 		"name": "Sampling as a Baseline Method for Search-based Software Engineering",
-		"image": "tse.png",
+		"image": "tse2.png",
 		"date": "Dec 2017",
 		"tags": [
 			"Phd"
@@ -65,7 +65,7 @@
 	{
 		"slug": "others",
 		"name": "More unlisted projects...",
-		"image": "gameai.png",
+		"image": "bone.png",
 		"date": "Jan 2015",
 		"tags": [
 			"Course",
