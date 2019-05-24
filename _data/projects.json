@@ -18,6 +18,15 @@
 		]
 	},
 	{
+		"slug": "croudsourcing",
+		"name": "Crowdsourced Testing  Worker Selection",
+		"image": "croudsourcing.png",
+		"date": "Dec 2018",
+		"tags": [
+			"Industrial"
+		]
+	},
+	{
 		"slug": "riot",
 		"name": "Stochastic based Scheduling in Cloud Environment",
 		"image": "workflow2.png",
