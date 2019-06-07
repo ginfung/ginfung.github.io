@@ -52,19 +52,9 @@ baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
-# markdown: kramdown
-# highlighter: rouge
-
 markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    default_lang: csharp
-    css_class: 'highlight'
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
+highlighter: rouge
+
 
 
 gems:
