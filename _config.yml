@@ -76,3 +76,7 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
+
+graphviz:
+  options: "-Tsvg" # 'dot' command option
+  command: "dot"   # execute this string. specify full path to 'dot' if you need
