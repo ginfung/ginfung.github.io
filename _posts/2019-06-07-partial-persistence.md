@@ -55,10 +55,10 @@ randir=LR;
 }
 ' width="600pt"/>
 
-## 2. Partial Persistance
-The persistance of some data structure is the ability to keep all versions of that.
+## 2. Partial Persistence
+The persistence of some data structure is the ability to keep all versions of that.
 
-**Partial persistance:** the data structure (DS) can be updated only in latest version. And we can **access (NOT CHAGE)** any field in any version. Versions are linearly ordered as follows,
+**Partial persistence:** the data structure (DS) can be updated only in latest version. And we can **access (NOT CHANGE)** any field in any version. Versions are linearly ordered as follows,
 
 <img src='https://g.gravizo.com/svg?
 digraph G {
@@ -71,7 +71,7 @@ init_v0->v1->v2->"..."->latest;
 _Example:_ Assuming we have a partial persistent pointer machines, then we can create a version controlled LinkedList/BST. Please note that all pointers in the LinkedList/BST are part of the fields; like the data fields,
 all pointers are version controlled. 
 
-**Full persistance:** DS can be updated in any version. This will be discussed in another article. Versions form a tree as
+**Full persistence:** DS can be updated in any version. This will be discussed in another article. Versions form a tree as
 
 <img src='https://g.gravizo.com/svg?
 digraph G {
@@ -86,7 +86,7 @@ v3->"v3.1"->"v3.2"->"v3.3";
 
 
 ## 3. An Implementation of Partial Persistance
-The implemetation is based on [Driscoll, Sarnak, Sleator, Tarjan--JCS 1989](https://www.cs.cmu.edu/~sleator/papers/another-persistence.pdf).
+The implementation  is based on [Driscoll, Sarnak, Sleator, Tarjan--JCS 1989](https://www.cs.cmu.edu/~sleator/papers/another-persistence.pdf).
 
 - Any pointer-machine DS with $$\le p=O(1)$$ pointers to any node can be made partially persistent    
 - with $$O(1)$$ amortized multiplicative overhead and    
@@ -99,7 +99,7 @@ To implement this we need the extend the pointer machine as
 - $$p$$ back pointers
 - $$2p$$ mods (modifications), each one is `(version, variable, value)`
 
-Given this, we can declear the pointer machine
+Given this, we can declare  the pointer machine
 ```python
 class PartialPersistentNode():
     def __init__(self, data_vars_tags, ptr_vars_tags, max_pointer_num=1):
@@ -116,7 +116,7 @@ class PartialPersistentNode():
             self.back[ptr].add(new)
 ```
 
-We let `PartialPersistentNode.dt` and `PartialPersistentNode.pt` as tags of data and pointer feilds. For each
+We let `PartialPersistentNode.dt` and `PartialPersistentNode.pt` as tags of data and pointer fields. For each
 pointer field, we need a set to hold the nodes pointing to current node.
 
 For convenient, we have a function `set_back` to update the back pointers.
@@ -138,9 +138,9 @@ Since we put all modifications in `PartialPersistentNode.mods`, To read the `Par
 To do the update,
 - if the `self.mods` is not full, then just append the modification information there
 - if mods of `self` is full, we need to
-    - create a `new` node with all modication of fields updated, and all back pointers copied
+    - create a `new` node with all modifications  of fields updated, and all back pointers copied
     - in all nodes `self.fields[ptr] for ptr in self.pt`, their back pointers should be redirected to the `new` node
-    - for all nodes pointing to `self`, update their `ptr` field (where `ptr in self.pt`) to `new`. (_NOTE: This may be a recurssive process._)
+    - for all nodes pointing to `self`, update their `ptr` field (where `ptr in self.pt`) to `new`. (_NOTE: This may be a recursive  process._)
 
 ```python
     def write(self, now, var, val):
@@ -170,8 +170,8 @@ To do the update,
 ```
 
 ## 4. Partial Persistent Linked List
-With the `PartialPersistentNode`, we can now implementent a partial persistent linked list.
-The declearation of `LinkedList` can be 
+With the `PartialPersistentNode`, we can now implement  a partial persistent linked list.
+The declaration  of `LinkedList` can be 
 ```python
 class LinkedList():
     def __init__(self):
@@ -281,7 +281,7 @@ To delete some node, carefully update the back pointers and `next_ptr` shoud be 
         return self
 ```
 
-The following shows the a demo
+The following shows the demo
 ```python
 if __name__ == '__main__':
     L = LinkedList()
