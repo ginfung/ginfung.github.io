@@ -5,6 +5,8 @@ categories: [mit6_851, data_structure]
 permalink: /time_travel_0
 ---
 
+<mark>PDF version of this article for mobile device can be found <a href="/pdf/time_travel_0.pdf"> here</a></mark>
+
 _This [series](/category/mit6_851) of articles introduce the notes on the lectures [MIT6.851](http://courses.csail.mit.edu/6.851/spring12/) - Advanced Data Structure from Professor Erik Demaine. Here is the first article. All codes are open sourced in my [github](https://github.com/ginfung/Advanced_DS)._
 <iframe src="https://ghbtns.com/github-btn.html?user=ginfung&repo=Advanced_DS&type=star&count=true" frameborder="0" scrolling="0" width="85" height="20px"></iframe>
 
