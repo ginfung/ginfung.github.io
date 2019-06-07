@@ -52,17 +52,10 @@ baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
-sass:
-    sass_dir: _sass
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    default_lang: html
-    block:
-      line_numbers: true
-      start_line: 1
+
+
 gems:
   - jekyll-paginate
   - jekyll-gist
