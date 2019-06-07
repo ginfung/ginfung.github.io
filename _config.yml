@@ -60,9 +60,6 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     default_lang: html
-    css_class: 'syntax'
-    span:
-      line_numbers: false
     block:
       line_numbers: true
       start_line: 1
@@ -76,7 +73,3 @@ compress_html:
   endings: all
   ignore:
     envs: ['development']
-
-graphviz:
-  options: "-Tsvg" # 'dot' command option
-  command: "dot"   # execute this string. specify full path to 'dot' if you need
