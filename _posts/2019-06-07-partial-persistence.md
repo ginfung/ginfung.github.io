@@ -181,7 +181,7 @@ class LinkedList():
         self.root = PartialPersistentNode(self.dt, self.pt, self.p)
         self._timestamp = 0
 
-    def now(self):  # equivalent to  (++now)
+    def now(self):  # equivalent to  (now++)
         res = self._timestamp
         self._timestamp += 1
         return res
@@ -203,7 +203,7 @@ Reading `LinkedList` is not difficult.
             return res
 
         def __str__(self):
-            return self.str_(self._timestamp)`
+            return self.str_(self._timestamp)
 ```
 
 To append a node, move the end of the list, then create a `new` node, set up `value` and back pointer -- `next_ptr`. Register the `new` node in previous(`cursor` in the following)'s `next_ptr`.
