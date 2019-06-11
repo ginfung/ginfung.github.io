@@ -22,6 +22,8 @@ social:
       link: "mailto:jchen37@ncsu.edu"
     - icon: fa-facebook
       link: "https://www.facebook.com/jfchen1992"
+    - icon: fa-twitter
+      link: https://twitter.com/jianfeng0625
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/jianfengcs/"
     - icon: fa-github
@@ -30,6 +32,7 @@ social:
       link: "/wechat/"
     - icon: fa-slideshare
       link: "https://www.slideshare.net/jianfengcs"
+
 
 share:
   twitter_username: github.io
