@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-<a href="/jianfeng-chen-resume-2022.pdf">Download here.</a>
+<a href="/resume.pdf">Download here.</a>
